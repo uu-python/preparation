@@ -1,4 +1,4 @@
-# Preparation matieral
+# Preparation material
 This is a collection of online material and books intended for preparing for this course, especially for those new to Python.
 
 ## Online tutorials for Python
