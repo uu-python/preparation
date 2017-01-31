@@ -1,5 +1,5 @@
 # Preparation material
-This is a collection of online material and books intended for preparing for this course, especially for those new to Python.
+This is a collection of online material and books intended for preparing for this course, especially for those new to Python. In order to be prepared for this course, you should be able to understand this python example: [minimal.py](minimal.py)
 
 ## Online tutorials for Python
 * [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
