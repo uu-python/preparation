@@ -2,10 +2,15 @@
 This is a collection of online material intended for preparing for this course, especially for those new to Python. In order to be prepared for this course, you should be able to understand this simple python example: [minimal.py](minimal.py)
 
 ## Tutorials for Learning Python
-Studying one of the following online tutorials should allow you to understand the above example and follow the content of this course.
-* [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (recommended)
-* [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python) (does not cover numpy and not all modules are free)
-* [https://www.learnpython.org/](https://www.learnpython.org/) (also includes more advanced modules)
+Studying the following online tutorials should allow you to understand the above example and follow the content of this course.
+We recommend this tutorial 
+* [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
+and also the "Learn the Basics" and "Numpy arrays" modules of this one
+* [https://www.learnpython.org/](https://www.learnpython.org/)
+
+Another alternative is this tutorial (does not cover numpy and not all modules are free)
+* [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python) 
 
 # Further reading
 For those interested, here is a more comprehensive list of resourses related to Scientific Python Programming.
