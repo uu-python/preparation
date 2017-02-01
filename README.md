@@ -3,9 +3,9 @@ This is a collection of online material intended for preparing for this course, 
 
 ## Tutorials for Learning Python
 Studying one of the following online tutorials should allow you to understand the above example and follow the content of this course.
-* [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
-* [https://www.learnpython.org/](https://www.learnpython.org/)
-* [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (recommended)
+* [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python) (does not cover numpy and not all modules are free)
+* [https://www.learnpython.org/](https://www.learnpython.org/) (also includes more advanced modules)
 
 # Further reading
 For those interested, here is a more comprehensive list of resourses related to Scientific Python Programming.
