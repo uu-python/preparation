@@ -1,7 +1,7 @@
 # Preparation material
 This is a collection of online material intended for preparing for this course, especially for those new to Python. In order to be prepared for this course, you should be able to understand this simple python example: [minimal.py](minimal.py)
 
-# Tutorials for Learning Python
+## Tutorials for Learning Python
 * [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
 * [https://www.learnpython.org/](https://www.learnpython.org/)
 * [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
