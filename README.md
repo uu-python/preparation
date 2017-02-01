@@ -1,9 +1,13 @@
 # Preparation material
-This is a collection of online material and books intended for preparing for this course, especially for those new to Python. In order to be prepared for this course, you should be able to understand this simple python example: [minimal.py](minimal.py)
+This is a collection of online material intended for preparing for this course, especially for those new to Python. In order to be prepared for this course, you should be able to understand this simple python example: [minimal.py](minimal.py)
 
-## Online tutorials for Python
+# Tutorials for Learning Python
 * [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
 * [https://www.learnpython.org/](https://www.learnpython.org/)
+* [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
+# Further reading
+For those interested, here is a more comprehensive list of resourses related to Scientific Python Programming.
 
 ## Books
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
