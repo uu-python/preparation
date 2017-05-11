@@ -31,6 +31,6 @@ print("Median height of goalkeepers: " + str(np.median(gk_heights)))
 print("Median height of other players: " + str(np.median(other_heights)))
 
 if(np.median(gk_heights) > np.median(other_heights)):
-    print ("The median goalkeepers height is bigger than that of the other players")
+    print("The median goalkeepers height is bigger than that of the other players")
 else:
-    print ("The median goalkeepers height is not bigger than that of the other players")
+    print("The median goalkeepers height is not bigger than that of the other players")
