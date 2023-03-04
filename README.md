@@ -1,16 +1,16 @@
 # Preparation material
 This is a collection of online material intended for preparation before the start of the course, especially for those who are new to Python. In order to be prepared for this course, you should be able to understand this simple python example: [minimal.py](minimal.py)
 
-## Basic Python Tutorials
+## Python Tutorials
 Studying some of the following online tutorials should allow you to understand the above example and follow the content of this course.
-We can recommend this tutorial 
-* [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+For a short one check:
+* [Python Basics](https://coderefinery.github.io/data-visualization-python/python-basics/)
 
-and also the "Learn the Basics" and "Numpy arrays" modules of this one
-* [https://www.learnpython.org/](https://www.learnpython.org/)
+For a more thorough tutorial see:
+* [Real Python - Introduction to Python](https://realpython.com/learning-paths/python3-introduction/)
 
-Another alternative is this tutorial (does not cover numpy and not all modules are free)
-* [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python) 
+Or the official Python tutorial:
+* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 # Further reading
 For those interested already in more advanced topics, here is a more comprehensive list of resourses related to Scientific Python Programming.
