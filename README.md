@@ -20,6 +20,7 @@ For those interested already in more advanced topics, here is a more comprehensi
 
 ## Books
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Numpy/Scipy
 * [Scipy lectures](http://www.scipy-lectures.org)
