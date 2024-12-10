@@ -1,19 +1,20 @@
 # Preparation material
-This is a collection of online material intended for preparation before the start of the course, especially for those who are new to Python. In order to be prepared for this course, you should be able to understand this simple python example: [minimal.py](minimal.py)
+This is a collection of online material intended for preparation before the start of the course, especially for those who are new to Python. In order to be prepared for this course, you should be able to understand the concepts covered by the [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html).
 
 ## Python Tutorials
-Studying some of the following online tutorials should allow you to understand the above example and follow the content of this course.
+Here's a list of some online tutorials to help you follow the content of this course.
+
+The official Python tutorial:
+* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+  
 For a short one check:
 * [Python Basics](https://coderefinery.github.io/data-visualization-python/python-basics/)
 
-For a more thorough tutorial see:
-* [Real Python - Introduction to Python](https://realpython.com/learning-paths/python3-introduction/)
-
-Or the official Python tutorial:
-* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+For a more in-depth resource see:
+* [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
 # Further reading
-For those interested already in more advanced topics, here is a more comprehensive list of resourses related to Scientific Python Programming.
+For those interested already in more advanced topics, here is a more comprehensive list of resources related to Scientific Python Programming.
 
 ## Online course
 * [Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/) - an excellent course, very similar in scope to this one!
